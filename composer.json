@@ -1,12 +1,12 @@
 {
-    "name": "laminas-commons/lmc-user-doctrine-odm",
+    "name": "lm-commons/lmc-user-doctrine-odm",
     "description": "Doctrine2 Mongo storage adapter for LmcUser.",
     "type": "library",
     "license": "BSD-3-Clause",
     "keywords": [
         "zf2"
     ],
-    "homepage": "https://github.com/Laminas-Commons/LmcUserDoctrineMongoODM",
+    "homepage": "https://github.com/LM-Commons/LmcUserDoctrineMongoODM",
     "authors": [
         {
             "name": "Evan Coury",
@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "laminas-commons/lmc-user": "dev-master",
+        "lm-commons/lmc-user": "dev-master",
         "doctrine/doctrine-mongo-odm-module": "~2.0"
     },
     "minimum-stability": "dev",
