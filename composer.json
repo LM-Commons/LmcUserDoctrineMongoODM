@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "lm-commons/lmc-user": "dev-master",
+        "lm-commons/lmc-user": "^3.3.3",
         "doctrine/doctrine-mongo-odm-module": "3.*"
     },
     "minimum-stability": "dev",
